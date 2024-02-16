@@ -52,8 +52,9 @@
     /* position: relative; */
   }
 
-  .dropdown  li  a{
+  .dropdown li .subcategory{
     padding: 0px 0px;
+    color: red;
   }
 
 
@@ -109,9 +110,12 @@ padding-left: 0;
 
 
 
+
+
 .dropdown li ul li a{
 
   margin-top: 20px;
   margin-bottom: 20px;
+ 
 }
 
